@@ -445,6 +445,7 @@ void boss(){
        Serial.println("");
        Serial.println("");
        Serial.println("-Reinicie o arduino para tentar novamente-");
+       Serial.println("(Ou só fica aí refletindo suas escolhas)");
 
        while (true){
         //loop infinito
