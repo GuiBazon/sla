@@ -1,9 +1,9 @@
 // sprint 1 kk
 
-//Vinícius Soares Peroni
-//Arthur Marques Santos
-//Guilherme Bazon
-//Flávio
+//Vinícius Soares Peroni (A lenda)
+//Arthur Marques Santos (O rei)
+//Guilherme Bazon (O CavalHeiro)
+//Flávio (O mago)
 
 // define os pinos dos leds que demonstram os personagens
 const int ledMago = 2;
